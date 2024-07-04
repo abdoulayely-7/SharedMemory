@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Schema Namespace="GestionStockModel.Store" Provider="System.Data.SqlClient" ProviderManifestToken="2012" Alias="Self" xmlns:store="http://schemas.microsoft.com/ado/2007/12/edm/EntityStoreSchemaGenerator" xmlns:customannotation="http://schemas.microsoft.com/ado/2013/11/edm/customannotation" xmlns="http://schemas.microsoft.com/ado/2009/11/edm/ssdl">
+  <EntityType Name="produit">
+    <Key>
+      <PropertyRef Name="idProduit" />
+    </Key>
+    <Property Name="idProduit" Type="int" StoreGeneratedPattern="Identity" Nullable="false" />
+    <Property Name="codeProduit" Type="nvarchar" MaxLength="50" />
+    <Property Name="designationProduit" Type="nvarchar" MaxLength="200" />
+    <Property Name="PU" Type="int" />
+    <Property Name="QteMin" Type="int" />
+    <Property Name="QteCri" Type="int" />
+    <Property Name="codeCategorie" Type="nvarchar" MaxLength="4" />
+  </EntityType>
+  <EntityContainer Name="GestionStockModelStoreContainer">
+    <EntitySet Name="produit" EntityType="Self.produit" Schema="dbo" store:Type="Tables" />
+  </EntityContainer>
+</Schema>

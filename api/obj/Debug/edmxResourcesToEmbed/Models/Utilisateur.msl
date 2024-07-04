@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
+  <EntityContainerMapping StorageEntityContainer="GestionStockModelStoreContainer" CdmEntityContainer="GestionStockEntities">
+    <EntitySetMapping Name="utilisateur">
+      <EntityTypeMapping TypeName="GestionStockModel.utilisateur">
+        <MappingFragment StoreEntitySet="utilisateur">
+          <ScalarProperty Name="idUtilisateur" ColumnName="idUtilisateur" />
+          <ScalarProperty Name="identifiantUtilisateur" ColumnName="identifiantUtilisateur" />
+          <ScalarProperty Name="motDePasse" ColumnName="motDePasse" />
+          <ScalarProperty Name="codeProfil" ColumnName="codeProfil" />
+          <ScalarProperty Name="prenom" ColumnName="prenom" />
+          <ScalarProperty Name="email" ColumnName="email" />
+          <ScalarProperty Name="ChangerMotDePasse" ColumnName="ChangerMotDePasse" />
+        </MappingFragment>
+      </EntityTypeMapping>
+    </EntitySetMapping>
+  </EntityContainerMapping>
+</Mapping>

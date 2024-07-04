@@ -1,0 +1,10 @@
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.exe.config
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.exe
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\bin\Debug\AppSharedMemory.pdb
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.AssemblyReference.cache
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.Properties.Resources.resources
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.GenerateResource.cache
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.csproj.CoreCompileInputs.cache
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.exe
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.pdb
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.Form1.resources
