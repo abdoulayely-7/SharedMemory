@@ -1,0 +1,1 @@
+"*.tf\n*.tlog\n*.tmp\n*.obj\n*.log\n*.user\n*.vspscc\n*.vssscc\n*.suo\n*.sdf\n*.opensdf\n*.vcproj.*.user\n*.csproj.user\n*_i.c\n*_p.c\n*.ilk\n*.meta\n*.tmp\n*.tmp_proj\n*.log\n*.vspscc\n*.vssscc\n.vscode/\n.vs/" 
