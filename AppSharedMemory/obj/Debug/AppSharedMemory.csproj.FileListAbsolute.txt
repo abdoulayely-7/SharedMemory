@@ -8,3 +8,6 @@ C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppShare
 C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.exe
 C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.pdb
 C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppSharedMemory.Form1.resources
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\bin\Debug\Newtonsoft.Json.dll
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\bin\Debug\Newtonsoft.Json.xml
+C:\Users\hp\source\repos\SolutionSharedMemory\AppSharedMemory\obj\Debug\AppShare.1B6F266B.Up2Date

@@ -37,7 +37,7 @@
           <Property Name="QteCri" Type="Int32" />
           <Property Name="codeCategorie" Type="String" MaxLength="4" FixedLength="false" Unicode="true" />
         </EntityType>
-        <EntityContainer Name="GestionStockEntities" annotation:LazyLoadingEnabled="true">
+        <EntityContainer Name="GestionStockEntities1" annotation:LazyLoadingEnabled="true">
           <EntitySet Name="produit" EntityType="Self.produit" />
         </EntityContainer>
       </Schema>
@@ -45,7 +45,7 @@
     <!-- C-S mapping content -->
     <edmx:Mappings>
       <Mapping Space="C-S" xmlns="http://schemas.microsoft.com/ado/2009/11/mapping/cs">
-        <EntityContainerMapping StorageEntityContainer="GestionStockModelStoreContainer" CdmEntityContainer="GestionStockEntities">
+        <EntityContainerMapping StorageEntityContainer="GestionStockModelStoreContainer" CdmEntityContainer="GestionStockEntities1">
           <EntitySetMapping Name="produit">
             <EntityTypeMapping TypeName="GestionStockModel.produit">
               <MappingFragment StoreEntitySet="produit">

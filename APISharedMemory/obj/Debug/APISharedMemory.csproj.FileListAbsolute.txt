@@ -97,4 +97,3 @@ C:\Users\hp\source\repos\SolutionSharedMemory\APISharedMemory\bin\EntityFramewor
 C:\Users\hp\source\repos\SolutionSharedMemory\APISharedMemory\bin\EntityFramework.SqlServer.dll
 C:\Users\hp\source\repos\SolutionSharedMemory\APISharedMemory\bin\EntityFramework.xml
 C:\Users\hp\source\repos\SolutionSharedMemory\APISharedMemory\bin\EntityFramework.SqlServer.xml
-C:\Users\hp\source\repos\SolutionSharedMemory\APISharedMemory\bin\fr\EntityFramework.resources.dll

@@ -13,10 +13,10 @@ namespace APISharedMemory.Models
     using System.Data.Entity;
     using System.Data.Entity.Infrastructure;
     
-    public partial class GestionStockEntities : DbContext
+    public partial class GestionStockEntities1 : DbContext
     {
-        public GestionStockEntities()
-            : base("name=GestionStockEntities")
+        public GestionStockEntities1()
+            : base("name=GestionStockEntities1")
         {
         }
     
